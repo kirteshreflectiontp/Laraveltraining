@@ -6,13 +6,12 @@
     <title>LaraApp</title>
 </head>
 <body>
-    <div Class="Navbar">
-     <h1>Home</h1>
-     <h1>About</h1>
-     <h1>Products</h1>
-     <h1>Gallery</h1>
-     <h1>Contact</h1>
-</div>
+<ul>
+  <li><a href="">Home</a></li>
+  <li><a  href="">News</a></li>
+  <li><a  href="">Contact</a></li>
+  <li><a  href="">About</a></li>
+</ul>
         
 </body>
 </html>
